@@ -1,0 +1,13 @@
+h1 {
+  color: green;
+}
+
+body {
+  text-align: center;
+  margin: auto;
+}
+
+.chart-section{
+  margin: 0 auto;
+  width: 80%;
+}
